@@ -11,7 +11,7 @@ Entre las funcionalidades de este sistema se presentan las ya disponibles y las 
     -Agregar un apartado de las funciones del sistema y un acerca de:.
     -Emision de mensajes de texto para la comunicación con el alumno, docente o administrativo.
     -Inicio de sesion por tipo de usuario(Alumno, Docente, Administrativo y root).
-      -ALUMNOS: 1. INFORMACION DE NOTAS AVANZADO (1ra Nota, Nota Aplazado y Nota final), Número de boleta de matrícula, Consejero,                    Suma de Creditos (aprobados, desaprobados y abandonados), Estado. Esta parte son dos páginas en donde la                            principal es un resumen y al hacer click en cada curso se verá a detalle las funciones que se esperan agregar.
+      -ALUMNOS: 1. INFORMACION DE NOTAS AVANZADO (1ra Nota, Nota Aplazado y Nota final), Número de boleta de matrícula,                            Consejero, Suma de Creditos (aprobados, desaprobados y abandonados), Estado. Esta parte son dos páginas en                      donde la principal es un resumen y al hacer click en cada curso se verá a detalle las funciones que se                          esperan agregar.
                 2. VISUALIZAR SU PROPIA MALLA CURRICULAR sin necesidad de descargar el archivo con el API de GOOGLE PDF.
                 3. BUSCADOR DE CURSOS POR CODIGO DE CURSO O NOMBRE DE CURSO.
                 4. EMISIÓN DE TICKET para solicitar boleta de matrícula y/o boleta de notas, en base a su pago realizado.
